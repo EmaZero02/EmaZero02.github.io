@@ -35,12 +35,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
-  text-decoration:none;
+  color: #6a0dad; /* Purple color */
 }
 
+/* Update the hover link color */
 a:hover {
-  color:#069;
+  color: #4b0082; /* Darker purple */
 }
 
 a small {
